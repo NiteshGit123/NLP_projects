@@ -15,4 +15,4 @@ The task is to classify any project's subject/stream based on its title and abst
 
 Here, I provide an overview of vector embeddings, which serve as machine-interpretable representations of specific data.
 
-This documentation was prepared for a course titled "Vector Database for LLM." You can find more information about the course by following this  [Vector Databases: from Embeddings to Applications]([link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/).
+This documentation was prepared for a course titled "Vector Databases: from Embeddings to Applications". You can find more information about the course by following this link: [Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/).
